@@ -1,0 +1,24 @@
+{
+  "name": "tu-csv-json",
+  "version": "0.0.0-2",
+  "description": "Simples parser from csv to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaquimserafim/tu-csv-json.git"
+  },
+  "keywords": [
+    "csv",
+    "json",
+    "parser"
+  ],
+  "author": "@joaquimserafim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaquimserafim/tu-csv-json/issues"
+  },
+  "homepage": "https://github.com/joaquimserafim/tu-csv-json"
+}
