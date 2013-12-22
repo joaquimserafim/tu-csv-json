@@ -2,3 +2,5 @@
 node_modules/*
 test.*
 *.log
+data/*
+tu-csv-json.*
